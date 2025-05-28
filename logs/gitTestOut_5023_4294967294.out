@@ -2,3 +2,23 @@ Wed May 28 14:28:21 +07 2025
 spica04
 /home/wissarut/ARRAKHIS_wissarut2/SEDFitting/frameworkSwitcher
 File 'example.txt' created successfully.
+[dev 1da5ff4] squeue with git test
+ 17 files changed, 151 insertions(+)
+ create mode 100644 .ipynb_checkpoints/example-checkpoint.txt
+ create mode 100644 .ipynb_checkpoints/gitBatchTest-checkpoint.slurm
+ create mode 100644 .ipynb_checkpoints/gitTest-checkpoint.py
+ create mode 100644 example.txt
+ create mode 100644 gitBatchTest.slurm
+ create mode 100644 gitTest.py
+ create mode 100644 logs/.ipynb_checkpoints/gitTestErr_5020_4294967294-checkpoint.error
+ create mode 100644 logs/.ipynb_checkpoints/gitTestErr_5021_4294967294-checkpoint.error
+ create mode 100644 logs/.ipynb_checkpoints/gitTestErr_5022_4294967294-checkpoint.error
+ create mode 100644 logs/gitTestErr_5020_4294967294.error
+ create mode 100644 logs/gitTestErr_5021_4294967294.error
+ create mode 100644 logs/gitTestErr_5022_4294967294.error
+ create mode 100644 logs/gitTestErr_5023_4294967294.error
+ create mode 100644 logs/gitTestOut_5020_4294967294.out
+ create mode 100644 logs/gitTestOut_5021_4294967294.out
+ create mode 100644 logs/gitTestOut_5022_4294967294.out
+ create mode 100644 logs/gitTestOut_5023_4294967294.out
+Wed May 28 14:28:23 +07 2025
